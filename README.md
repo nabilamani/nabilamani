@@ -26,6 +26,11 @@
   <a href="https://wa.me/6285728853831" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/muhammad-nabil-amani-246458260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="nabilamani2304@gmail.com.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <h3 align="center">GitHub Analytics ⚙️</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats" alt="">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlessioCasolaro&layout=compact&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117"> 
+</a>
   
 </div>
 <br>
