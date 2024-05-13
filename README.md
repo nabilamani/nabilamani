@@ -28,8 +28,8 @@
   <a href="nabilamani2304@gmail.com.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <h3 align="center">GitHub Analytics ⚙️</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats" alt="">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlessioCasolaro&layout=compact&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117"> 
+<a href="https://github.com/nabilamani/github-readme-stats" alt="">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nabilamani&layout=compact&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117"> 
 </a>
   
 </div>
