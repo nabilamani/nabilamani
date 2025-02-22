@@ -8,7 +8,7 @@
 <!--About me-->
 <div align="left">
   <h3> ⭐ &nbsp;About me </h3>
-  <p>&nbsp;👋 Hi there! I'm Muhammad Nabil Amani, a passionate Front End Developer, UI/UX Designer and Data Analyst beginner from University of Amikom Yogyakarta. 🎓</p>
+  <p>&nbsp;👋 Hi there! I'm Muhammad Nabil Amani, a passionate Web Developer (specializing in Front-End Development but also capable in Back-End) and UI/UX Designer from Universitas Amikom Yogyakarta. 🎓</p>
 </div>
 
 <!--The skills-->
