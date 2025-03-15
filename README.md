@@ -27,6 +27,9 @@
   <a href="https://www.linkedin.com/in/muhammad-nabil-amani-246458260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:nabilamani2304@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@living_digital?_t=8n2vXb7ro1P&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@nabilamani873" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
   <h3 align="center">GitHub Analytics ⚙️</h3>
 <a href="https://github.com/nabilamani/github-readme-stats" alt="">
